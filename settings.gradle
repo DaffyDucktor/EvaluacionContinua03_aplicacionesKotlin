@@ -1,0 +1,2 @@
+rootProject.name = "LUCAS_VG"
+include ':app'
